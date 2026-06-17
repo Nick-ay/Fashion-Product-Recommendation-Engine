@@ -1,19 +1,20 @@
 ## Dashboard
 
 ### Personalized Fashion Recommender
-![Dashboard](assets/dashboard/Dashboard1.png)
+![Pipeline](dashboard6.jpeg)
 
-### Dataset & Evaluation Metrics
-![Metrics](assets/dashboard/Dashboard2.png)
-
-### Model Architecture
-![Architecture](assets/dashboard/Dashboard3.png)
-
-### Recommendation Engine Overview
-![Recommendation Engine](assets/dashboard/Dashboard4.png)
-
-### Hybrid Recommendation Pipeline
-![Pipeline](assets/dashboard/Dashboard5.png)
+### Personalized Fashion Recommender
+![Recommendation Engine](dashboard5.jpeg)
 
 ### Project Overview
-![Overview](assets/dashboard/Dashboard6.png)
+![Overview](dashboard2.jpeg)
+
+### Dataset & Evaluation Metrics
+![Metrics](dashboard3.jpeg)
+
+### Model & Architecture Information
+![Architecture](dashboard4.jpeg)
+
+### Recommendation Pipeline
+![Dashboard](dashboard.jpeg)
+
